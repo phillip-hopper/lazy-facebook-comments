@@ -3,7 +3,7 @@
  * Plugin Name:     Lazy FB Comments
  * Plugin URI:      https://github.com/Joel-James/lazy-facebook-comments
  * Description:     Light weight Facebook comments with lazy load facility. It loads comments after user clicking on a button or scrolling down. It saves page load time.
- * Version:         2.0.4
+ * Version:         2.0.5
  * Author:          Joel James
  * Author URI:      https://duckdev.com/
  * Donate link:     https://www.paypal.me/JoelCJ
@@ -11,6 +11,7 @@
  * License URI:     http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:     lazy-facebook-comments
  * Domain Path:     /languages
+ * GitHub Plugin URI: https://github.com/phillip-hopper/lazy-facebook-comments
  *
  * Lazy FB Comments is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
